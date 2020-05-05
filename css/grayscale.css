@@ -491,7 +491,7 @@ body {
 .project {
   width: 100%;
   height: 1000px;
-  background-image: url("../img/leaping-bunny.jpg");
+  background-image: url("../img/interview.jpg");
   background-size: cover;
   background-position: center;
   padding: 0 !important;
@@ -499,16 +499,17 @@ body {
 }
 
 .project-2 {
-  background-image: url("../img/cosmetic-rabbit.jpg");
+  background-image: url("../img/engagement.png");
+  background-position: 45% 75%;
 }
 
 .project-3 {
-  background-image: url("../img/AAVS.jpg");
-  background-position: 70% 50%;
+  background-image: url("../img/collaboration.png");
+  background-position: 50% 50%;
 }
 
 .project-4 {
-  background-image: url("../img/scientific-journal.jpg");
+  background-image: url("../img/slack.jpg");
 }
 
 .project-hover {
